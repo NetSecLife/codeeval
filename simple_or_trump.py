@@ -25,7 +25,7 @@ def main():
     #For loop through the inputs
     for test in test_cases:
         #Split the input
-        hand = test.split()
+        hand = test.split() 
 
         #Setup hand 1 variables
         hand1 = str(hand[0])
