@@ -15,7 +15,7 @@ def main():
         else:
             print('Fake')
     test_cases.close()
-    
+
 main()
 
 
